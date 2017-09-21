@@ -1,0 +1,32 @@
+{
+    "this_week": [
+
+        "xxx",
+        "xxx"
+    ],
+    "next_week": [
+
+        "xxx",
+        "xxx"
+    ],
+    "projects": [
+
+
+        {
+            "title": "[研发项目]\nxxx",
+            "content": "xxx",
+            "staffs": "FE：xxx",
+            "details": [
+
+                {
+
+                    "title": "xxx",
+                    "start_time": "9.18",
+                    "end_time": "9.22",
+                    "status": "Done",
+                    "comment": ""
+                }
+            ]
+        }
+    ]
+}
